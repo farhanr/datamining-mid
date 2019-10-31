@@ -25,4 +25,8 @@ levels(data$sex) <- c("", "?", "female", "male")
 #mean-time-at-adresses = lama tinggal di tempat sekarang
 
 
+# https://archive.ics.uci.edu/ml/datasets/credit+approval
+# https://datahub.io/machine-learning/credit-approval
+# https://www.openml.org/d/29
+# https://www.bni.co.id/Portals/1/BNI/Personal/Kartu%20Kredit/Docs/formulir-aplikasi-kk-bni.pdf
 # https://medium.com/@urvashilluniya/convert-multiple-categorical-columns-into-numeric-columns-in-single-line-of-code-577bab825635
